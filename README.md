@@ -1,5 +1,7 @@
 # Innovative 𝗘𝗺𝗮𝗶𝗹 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 Tool 💻
 
+Watch Demo: https://drive.google.com/file/d/121cdfG53rcnjJ_vE-zxiIdAyv6lwoLTO/view?usp=sharing
+
 An innovative tool using **𝗟𝗹𝗮𝗺𝗮, 𝗟𝗮𝗻𝗴𝗖𝗵𝗮𝗶𝗻, 𝗚𝗥𝗢𝗤, and 𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝘁** to streamline personalized cold email outreach. This tool is designed to help professionals and services companies connect with potential employers or clients more effectively.
 
 ## ✨ 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
