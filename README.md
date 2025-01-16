@@ -10,6 +10,9 @@ An innovative tool using **𝗟𝗹𝗮𝗺𝗮, 𝗟𝗮𝗻𝗴𝗖𝗵𝗮�
 - 📚 **𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗠𝗮𝘁𝗰𝗵𝗶𝗻𝗴**: Leverages a vector database to match relevant portfolio links with job descriptions, ensuring personalized and impactful email content.  
 - ✉️ **𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗖𝗼𝗹𝗱 𝗘𝗺𝗮𝗶𝗹𝘀**: Generates highly personalized cold emails based on the extracted job descriptions. The emails are enhanced with relevant portfolio links from a vector database, ensuring that each email speaks directly to the specific role.
 
+
+![image](https://github.com/user-attachments/assets/b5638d45-68fa-4463-948e-4043572f869d)
+
 ---
 
 ## 💡 𝗘𝘅𝗮𝗺𝗽𝗹𝗲 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼: 
